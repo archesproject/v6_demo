@@ -1,0 +1,6 @@
+{
+    "name": "v6_demo",
+    "dependencies": {
+        "arches": "archesproject/arches#dev/6.0.x"
+    }
+}

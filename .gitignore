@@ -1,0 +1,10 @@
+*.pyc
+*.log
+v6_demo/logs
+v6_demo/export_deliverables
+v6_demo/cantaloupe/*
+v6_demo/media/packages
+v6_demo/uploadedfiles/*
+v6_demo/settings_local.py
+.vscode/
+CACHE
