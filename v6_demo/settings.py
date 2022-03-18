@@ -165,6 +165,8 @@ CACHES = {
     }
 }
 
+ENABLE_USER_SIGNUP = True
+
 # Hide nodes and cards in a report that have no data
 HIDE_EMPTY_NODES_IN_REPORT = False
 
